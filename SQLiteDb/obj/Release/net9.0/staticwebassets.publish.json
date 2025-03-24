@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "Hash": "wZbrlhc1WbtA350F8Y7Er1HQ/R23tCAjvt250sA+N5s=",
+  "Source": "SQLiteDb",
+  "BasePath": "_content/SQLiteDb",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SQLiteDb\\wwwroot",
+      "Source": "SQLiteDb",
+      "ContentRoot": "C:\\Users\\Utente\\source\\repos\\SQLiteDb\\SQLiteDb\\wwwroot\\",
+      "BasePath": "_content/SQLiteDb",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,16 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/SQLiteDb/uploads/ML Projects.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\ML Projects.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-9Q9HnHBKeRhb6PFISkhAPahhVR1PLAVsU74tR9lMSA4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"28422"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u00229Q9HnHBKeRhb6PFISkhAPahhVR1PLAVsU74tR9lMSA4=\u0022"},{"Name":"Last-Modified","Value":"Wed, 19 Mar 2025 11:59:20 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SQLiteDb/uploads/ML Projects.xpdimxc9ys.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\ML Projects.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"xpdimxc9ys"},{"Name":"integrity","Value":"sha256-9Q9HnHBKeRhb6PFISkhAPahhVR1PLAVsU74tR9lMSA4="},{"Name":"label","Value":"_content/SQLiteDb/uploads/ML Projects.pdf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"28422"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u00229Q9HnHBKeRhb6PFISkhAPahhVR1PLAVsU74tR9lMSA4=\u0022"},{"Name":"Last-Modified","Value":"Wed, 19 Mar 2025 11:59:20 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,108 @@
+C:\Users\Utente\Desktop\NuovaCartella\SQLiteDb.exe
+C:\Users\Utente\Desktop\NuovaCartella\bin - Copia Eaz\Release\net9.0\publish\web.config
+C:\Users\Utente\Desktop\NuovaCartella\bin - Copia\Release\net9.0\publish\web.config
+C:\Users\Utente\Desktop\NuovaCartella\appsettings.Development.json
+C:\Users\Utente\Desktop\NuovaCartella\appsettings.json
+C:\Users\Utente\Desktop\NuovaCartella\bin - Copia Eaz\Release\net9.0\appsettings.Development.json
+C:\Users\Utente\Desktop\NuovaCartella\bin - Copia Eaz\Release\net9.0\appsettings.json
+C:\Users\Utente\Desktop\NuovaCartella\bin - Copia Eaz\Release\net9.0\publish\appsettings.Development.json
+C:\Users\Utente\Desktop\NuovaCartella\bin - Copia Eaz\Release\net9.0\publish\appsettings.json
+C:\Users\Utente\Desktop\NuovaCartella\bin - Copia Eaz\Release\net9.0\publish\SQLiteDb.deps.json
+C:\Users\Utente\Desktop\NuovaCartella\bin - Copia Eaz\Release\net9.0\publish\SQLiteDb.runtimeconfig.json
+C:\Users\Utente\Desktop\NuovaCartella\bin - Copia Eaz\Release\net9.0\publish\SQLiteDb.staticwebassets.endpoints.json
+C:\Users\Utente\Desktop\NuovaCartella\bin - Copia Eaz\Release\net9.0\SQLiteDb.deps.json
+C:\Users\Utente\Desktop\NuovaCartella\bin - Copia Eaz\Release\net9.0\SQLiteDb.runtimeconfig.json
+C:\Users\Utente\Desktop\NuovaCartella\bin - Copia Eaz\Release\net9.0\SQLiteDb.staticwebassets.endpoints.json
+C:\Users\Utente\Desktop\NuovaCartella\bin - Copia\Release\net9.0\appsettings.Development.json
+C:\Users\Utente\Desktop\NuovaCartella\bin - Copia\Release\net9.0\appsettings.json
+C:\Users\Utente\Desktop\NuovaCartella\bin - Copia\Release\net9.0\publish\appsettings.Development.json
+C:\Users\Utente\Desktop\NuovaCartella\bin - Copia\Release\net9.0\publish\appsettings.json
+C:\Users\Utente\Desktop\NuovaCartella\bin - Copia\Release\net9.0\publish\SQLiteDb.deps.json
+C:\Users\Utente\Desktop\NuovaCartella\bin - Copia\Release\net9.0\publish\SQLiteDb.runtimeconfig.json
+C:\Users\Utente\Desktop\NuovaCartella\bin - Copia\Release\net9.0\publish\SQLiteDb.staticwebassets.endpoints.json
+C:\Users\Utente\Desktop\NuovaCartella\bin - Copia\Release\net9.0\SQLiteDb.deps.json
+C:\Users\Utente\Desktop\NuovaCartella\bin - Copia\Release\net9.0\SQLiteDb.runtimeconfig.json
+C:\Users\Utente\Desktop\NuovaCartella\bin - Copia\Release\net9.0\SQLiteDb.staticwebassets.endpoints.json
+C:\Users\Utente\Desktop\NuovaCartella\SQLiteDb.dll
+C:\Users\Utente\Desktop\NuovaCartella\SQLiteDb.runtimeconfig.json
+C:\Users\Utente\Desktop\NuovaCartella\SQLiteDb.pdb
+C:\Users\Utente\Desktop\NuovaCartella\Azure.Core.dll
+C:\Users\Utente\Desktop\NuovaCartella\Azure.Identity.dll
+C:\Users\Utente\Desktop\NuovaCartella\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Utente\Desktop\NuovaCartella\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Utente\Desktop\NuovaCartella\Microsoft.Data.SqlClient.dll
+C:\Users\Utente\Desktop\NuovaCartella\Microsoft.Data.Sqlite.dll
+C:\Users\Utente\Desktop\NuovaCartella\Microsoft.EntityFrameworkCore.dll
+C:\Users\Utente\Desktop\NuovaCartella\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Utente\Desktop\NuovaCartella\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Utente\Desktop\NuovaCartella\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Utente\Desktop\NuovaCartella\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Utente\Desktop\NuovaCartella\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Utente\Desktop\NuovaCartella\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Utente\Desktop\NuovaCartella\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Utente\Desktop\NuovaCartella\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Utente\Desktop\NuovaCartella\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Utente\Desktop\NuovaCartella\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Utente\Desktop\NuovaCartella\Microsoft.Extensions.Logging.dll
+C:\Users\Utente\Desktop\NuovaCartella\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Utente\Desktop\NuovaCartella\Microsoft.Extensions.Options.dll
+C:\Users\Utente\Desktop\NuovaCartella\Microsoft.Extensions.Primitives.dll
+C:\Users\Utente\Desktop\NuovaCartella\Microsoft.Identity.Client.dll
+C:\Users\Utente\Desktop\NuovaCartella\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Utente\Desktop\NuovaCartella\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Utente\Desktop\NuovaCartella\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Utente\Desktop\NuovaCartella\Microsoft.IdentityModel.Logging.dll
+C:\Users\Utente\Desktop\NuovaCartella\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Utente\Desktop\NuovaCartella\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Utente\Desktop\NuovaCartella\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Utente\Desktop\NuovaCartella\Microsoft.OpenApi.dll
+C:\Users\Utente\Desktop\NuovaCartella\Microsoft.SqlServer.Server.dll
+C:\Users\Utente\Desktop\NuovaCartella\Microsoft.Win32.SystemEvents.dll
+C:\Users\Utente\Desktop\NuovaCartella\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Utente\Desktop\NuovaCartella\SQLitePCLRaw.core.dll
+C:\Users\Utente\Desktop\NuovaCartella\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Utente\Desktop\NuovaCartella\System.ClientModel.dll
+C:\Users\Utente\Desktop\NuovaCartella\System.Configuration.ConfigurationManager.dll
+C:\Users\Utente\Desktop\NuovaCartella\System.Drawing.Common.dll
+C:\Users\Utente\Desktop\NuovaCartella\System.Formats.Asn1.dll
+C:\Users\Utente\Desktop\NuovaCartella\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Utente\Desktop\NuovaCartella\System.Memory.Data.dll
+C:\Users\Utente\Desktop\NuovaCartella\System.Runtime.Caching.dll
+C:\Users\Utente\Desktop\NuovaCartella\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Utente\Desktop\NuovaCartella\System.Security.Permissions.dll
+C:\Users\Utente\Desktop\NuovaCartella\System.Text.Json.dll
+C:\Users\Utente\Desktop\NuovaCartella\System.Windows.Extensions.dll
+C:\Users\Utente\Desktop\NuovaCartella\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Utente\Desktop\NuovaCartella\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Utente\Desktop\NuovaCartella\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Utente\Desktop\NuovaCartella\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Utente\Desktop\NuovaCartella\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Utente\Desktop\NuovaCartella\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Utente\Desktop\NuovaCartella\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Utente\Desktop\NuovaCartella\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+C:\Users\Utente\Desktop\NuovaCartella\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Utente\Desktop\NuovaCartella\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Utente\Desktop\NuovaCartella\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Utente\Desktop\NuovaCartella\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Utente\Desktop\NuovaCartella\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Utente\Desktop\NuovaCartella\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Utente\Desktop\NuovaCartella\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\Utente\Desktop\NuovaCartella\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Utente\Desktop\NuovaCartella\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Utente\Desktop\NuovaCartella\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Utente\Desktop\NuovaCartella\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Utente\Desktop\NuovaCartella\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Utente\Desktop\NuovaCartella\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Utente\Desktop\NuovaCartella\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Utente\Desktop\NuovaCartella\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Utente\Desktop\NuovaCartella\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Utente\Desktop\NuovaCartella\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Utente\Desktop\NuovaCartella\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Utente\Desktop\NuovaCartella\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Utente\Desktop\NuovaCartella\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Utente\Desktop\NuovaCartella\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Utente\Desktop\NuovaCartella\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Utente\Desktop\NuovaCartella\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Utente\Desktop\NuovaCartella\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Utente\Desktop\NuovaCartella\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Utente\Desktop\NuovaCartella\SQLiteDb.deps.json

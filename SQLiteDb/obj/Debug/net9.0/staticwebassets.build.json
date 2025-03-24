@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "Hash": "Dhui2gBEgdEl2pZ0HTOjiG65E53hSHCLEiDWnQ2yiks=",
+  "Source": "SQLiteDb",
+  "BasePath": "_content/SQLiteDb",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SQLiteDb\\wwwroot",
+      "Source": "SQLiteDb",
+      "ContentRoot": "C:\\Users\\Utente\\source\\repos\\SQLiteDb - Copia\\SQLiteDb\\wwwroot\\",
+      "BasePath": "_content/SQLiteDb",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Utente\\source\\repos\\SQLiteDb\\SQLiteDb\\wwwroot\\uploads\\ML Projects.pdf",
+      "PackagePath": "staticwebassets\\uploads\\ML Projects.pdf"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.SQLiteDb.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.SQLiteDb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.SQLiteDb.props",
+      "PackagePath": "build\\SQLiteDb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.SQLiteDb.props",
+      "PackagePath": "buildMultiTargeting\\SQLiteDb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.SQLiteDb.props",
+      "PackagePath": "buildTransitive\\SQLiteDb.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

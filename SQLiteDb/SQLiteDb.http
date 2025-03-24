@@ -1,0 +1,48 @@
+@SQLiteDb_HostAddress = https://localhost:5001
+
+GET {{SQLiteDb_HostAddress}}/api/user
+
+###
+
+POST {{SQLiteDb_HostAddress}}/api/user/login
+Content-Type: application/json
+
+{
+  "username" : "Luigi",
+  "password" : "Funziona2&",
+  "email" : "test6@email.com"
+}
+
+###
+
+POST {{SQLiteDb_HostAddress}}/api/user/register
+Content-Type: application/json
+
+{
+  "username" : "Luigi",
+  "password" : "Funziona2&",
+  "email" : "test6@email.com"
+}
+
+###
+
+@email = test2@email.com
+GET {{SQLiteDb_HostAddress}}/api/user/{{email}}
+
+###
+
+PUT {{SQLiteDb_HostAddress}}/api/user/{id}
+Content-Type: application/json
+
+{
+  "id" : 2,
+  "name" : "Steven",
+  "address" : "Via Cagliari 2",
+  "registered_date" : "2025-02-20"
+}
+
+###
+
+DELETE {{SQLiteDb_HostAddress}}/api/user/{{id}}
+
+###
