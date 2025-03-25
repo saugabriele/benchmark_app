@@ -116,6 +116,27 @@
   },
   {
     "ContainingType": "SQLiteDb.Controllers.UserController",
+    "Method": "ModifyUserAsych",
+    "RelativePath": "api/User/modify/{email}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "userDTO",
+        "Type": "SQLiteDb.Models.UserDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SQLiteDb.Controllers.UserController",
     "Method": "RegisterAsync",
     "RelativePath": "api/User/register",
     "HttpMethod": "POST",

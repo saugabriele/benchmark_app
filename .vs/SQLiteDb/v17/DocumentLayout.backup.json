@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Utente\\source\\repos\\SQLiteDb - Copia\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E4716E7C-F749-4E4E-A5E8-C58A29EA8B40}|SQLiteDb\\SQLiteDb.csproj|c:\\users\\utente\\source\\repos\\sqlitedb - copia\\sqlitedb\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4716E7C-F749-4E4E-A5E8-C58A29EA8B40}|SQLiteDb\\SQLiteDb.csproj|solutionrelative:sqlitedb\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E4716E7C-F749-4E4E-A5E8-C58A29EA8B40}|SQLiteDb\\SQLiteDb.csproj|c:\\users\\utente\\source\\repos\\sqlitedb - copia\\sqlitedb\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E4716E7C-F749-4E4E-A5E8-C58A29EA8B40}|SQLiteDb\\SQLiteDb.csproj|solutionrelative:sqlitedb\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4716E7C-F749-4E4E-A5E8-C58A29EA8B40}|SQLiteDb\\SQLiteDb.csproj|c:\\users\\utente\\source\\repos\\sqlitedb - copia\\sqlitedb\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4716E7C-F749-4E4E-A5E8-C58A29EA8B40}|SQLiteDb\\SQLiteDb.csproj|solutionrelative:sqlitedb\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E4716E7C-F749-4E4E-A5E8-C58A29EA8B40}|SQLiteDb\\SQLiteDb.csproj|c:\\users\\utente\\source\\repos\\sqlitedb - copia\\sqlitedb\\sqlitedb.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{E4716E7C-F749-4E4E-A5E8-C58A29EA8B40}|SQLiteDb\\SQLiteDb.csproj|solutionrelative:sqlitedb\\sqlitedb.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4716E7C-F749-4E4E-A5E8-C58A29EA8B40}|SQLiteDb\\SQLiteDb.csproj|c:\\users\\utente\\source\\repos\\sqlitedb - copia\\sqlitedb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E4716E7C-F749-4E4E-A5E8-C58A29EA8B40}|SQLiteDb\\SQLiteDb.csproj|solutionrelative:sqlitedb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E4716E7C-F749-4E4E-A5E8-C58A29EA8B40}|SQLiteDb\\SQLiteDb.csproj|c:\\users\\utente\\source\\repos\\sqlitedb - copia\\sqlitedb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E4716E7C-F749-4E4E-A5E8-C58A29EA8B40}|SQLiteDb\\SQLiteDb.csproj|solutionrelative:sqlitedb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4716E7C-F749-4E4E-A5E8-C58A29EA8B40}|SQLiteDb\\SQLiteDb.csproj|c:\\users\\utente\\source\\repos\\sqlitedb - copia\\sqlitedb\\sqlitedb.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{E4716E7C-F749-4E4E-A5E8-C58A29EA8B40}|SQLiteDb\\SQLiteDb.csproj|solutionrelative:sqlitedb\\sqlitedb.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{E4716E7C-F749-4E4E-A5E8-C58A29EA8B40}|SQLiteDb\\SQLiteDb.csproj|c:\\users\\utente\\source\\repos\\sqlitedb - copia\\sqlitedb\\controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4716E7C-F749-4E4E-A5E8-C58A29EA8B40}|SQLiteDb\\SQLiteDb.csproj|solutionrelative:sqlitedb\\controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4716E7C-F749-4E4E-A5E8-C58A29EA8B40}|SQLiteDb\\SQLiteDb.csproj|c:\\users\\utente\\source\\repos\\sqlitedb - copia\\sqlitedb\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4716E7C-F749-4E4E-A5E8-C58A29EA8B40}|SQLiteDb\\SQLiteDb.csproj|solutionrelative:sqlitedb\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4716E7C-F749-4E4E-A5E8-C58A29EA8B40}|SQLiteDb\\SQLiteDb.csproj|c:\\users\\utente\\source\\repos\\sqlitedb - copia\\sqlitedb\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4716E7C-F749-4E4E-A5E8-C58A29EA8B40}|SQLiteDb\\SQLiteDb.csproj|solutionrelative:sqlitedb\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,17 +38,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "FileController.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\SQLiteDb - Copia\\SQLiteDb\\Controllers\\FileController.cs",
+              "RelativeDocumentMoniker": "SQLiteDb\\Controllers\\FileController.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\SQLiteDb - Copia\\SQLiteDb\\Controllers\\FileController.cs",
+              "RelativeToolTip": "SQLiteDb\\Controllers\\FileController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T09:45:05.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\SQLiteDb - Copia\\SQLiteDb\\appsettings.json",
+              "RelativeDocumentMoniker": "SQLiteDb\\appsettings.json",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\SQLiteDb - Copia\\SQLiteDb\\appsettings.json",
+              "RelativeToolTip": "SQLiteDb\\appsettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-25T08:58:01.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "SQLiteDb.http",
               "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\SQLiteDb - Copia\\SQLiteDb\\SQLiteDb.http",
               "RelativeDocumentMoniker": "SQLiteDb\\SQLiteDb.http",
               "ToolTip": "C:\\Users\\Utente\\source\\repos\\SQLiteDb - Copia\\SQLiteDb\\SQLiteDb.http",
               "RelativeToolTip": "SQLiteDb\\SQLiteDb.http",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAsAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCcAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
               "WhenOpened": "2025-03-18T13:31:14.002Z",
               "EditorCaption": ""
@@ -53,46 +87,46 @@
               "RelativeDocumentMoniker": "SQLiteDb\\Program.cs",
               "ToolTip": "C:\\Users\\Utente\\source\\repos\\SQLiteDb - Copia\\SQLiteDb\\Program.cs",
               "RelativeToolTip": "SQLiteDb\\Program.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAswCwAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACAAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-12T14:27:07.675Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\SQLiteDb - Copia\\SQLiteDb\\Models\\User.cs",
               "RelativeDocumentMoniker": "SQLiteDb\\Models\\User.cs",
               "ToolTip": "C:\\Users\\Utente\\source\\repos\\SQLiteDb - Copia\\SQLiteDb\\Models\\User.cs",
               "RelativeToolTip": "SQLiteDb\\Models\\User.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwAUAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-20T10:31:54.68Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\SQLiteDb - Copia\\SQLiteDb\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "SQLiteDb\\Controllers\\UserController.cs",
               "ToolTip": "C:\\Users\\Utente\\source\\repos\\SQLiteDb - Copia\\SQLiteDb\\Controllers\\UserController.cs",
               "RelativeToolTip": "SQLiteDb\\Controllers\\UserController.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAqwDIAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGMAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-20T10:31:49.484Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\SQLiteDb - Copia\\SQLiteDb\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "SQLiteDb\\Repositories\\UserRepository.cs",
               "ToolTip": "C:\\Users\\Utente\\source\\repos\\SQLiteDb - Copia\\SQLiteDb\\Repositories\\UserRepository.cs",
               "RelativeToolTip": "SQLiteDb\\Repositories\\UserRepository.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAswB0AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-20T10:31:58.286Z",
               "EditorCaption": ""

@@ -625,3 +625,4 @@ C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\obj\Debug\net9.0\refint\S
 C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\obj\Debug\net9.0\SQLiteDb.pdb
 C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\obj\Debug\net9.0\SQLiteDb.genruntimeconfig.cache
 C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\obj\Debug\net9.0\ref\SQLiteDb.dll
+C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\obj\Debug\net9.0\SQLiteDb.sourcelink.json

@@ -26,5 +26,11 @@ namespace SQLiteDb.Repositories
             _context.Users.Add(user);
             await _context.SaveChangesAsync();
         }
+
+        public async Task UpdateDatabaseAsync()
+        {
+            //Update database
+            await _context.SaveChangesAsync();
+        }
     }
 }

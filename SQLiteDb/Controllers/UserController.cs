@@ -1,14 +1,17 @@
 ﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.IdentityModel.Tokens;
 using SQLiteDb.Models;
 using SQLiteDb.Repositories;
 using System;
 using System.ComponentModel.DataAnnotations;
 using System.Linq.Expressions;
+using System.Security.Claims;
 using System.Security.Cryptography;
 using System.Text;
 using System.Text.RegularExpressions;
+using System.IdentityModel.Tokens.Jwt;
 
 
 namespace SQLiteDb.Controllers
@@ -18,22 +21,21 @@ namespace SQLiteDb.Controllers
     public class UserController : ControllerBase
     {
         private readonly UserRepository _userRepository;
+        private readonly IConfiguration _configuration;
 
-        public UserController(AppDbContext context, UserRepository userRepository)
+        public UserController(IConfiguration configuration, UserRepository userRepository)
         {
+            _configuration = configuration;
             _userRepository = userRepository;
         }
 
+        [AllowAnonymous]
         [HttpPost("register")]
         public async Task<IActionResult> RegisterAsync([FromBody] UserDTO userDTO)
         {
             //Create a dictionary of registration fields (username, password, email)
-            Dictionary<string, string> fields = new Dictionary<string, string>
-            {
-                { "username", userDTO.username},
-                { "password", userDTO.password},
-                { "email", userDTO.email}
-            };
+            Dictionary<string, string> fields = CreateDictOfInputFields(userDTO.username, userDTO.password, 
+                                                                        userDTO.email);
 
             //Validate input fields using a custom validation function
             //If validation fails, return an error message
@@ -63,23 +65,30 @@ namespace SQLiteDb.Controllers
             return CreatedAtAction(nameof(GetUserAsync), new { email = registeredUser.email }, registeredUser);
         }
 
-
-        [HttpPost ("login")]
+        [AllowAnonymous]
+        [HttpPost("login")]
         public async Task<IActionResult> LoginAsync([FromBody] UserDTO userDTO)
         {
             //Try to retrieve the registered user by email.
             //Return a BadRequest if the user does not exists or the credentials are not valid.
             var registeredUser = await _userRepository.GetUserByEmailAsync(userDTO.email);
-            if (registeredUser == null ||await ValidateUserAsync(userDTO) == false)
+            if (registeredUser == null || await ValidateUserAsync(userDTO) == false)
             {
                 return BadRequest("A user with this email does not exists or the credentials are not correct");
             }
 
-            //Return the UserDTO object of the logged in user
-            return Ok(registeredUser.UserDTOFromUser());
+            //Create the JWT token
+            string jwtToken = CreateJWT(registeredUser);
+
+            //Return the UserDTO object and the JWT token of the logged in user
+            return Ok(new
+            {
+                user = registeredUser.UserDTOFromUser(),
+                token = jwtToken
+            });
         }
 
-
+        [Authorize]
         [HttpGet("{email}")]
         public async Task<IActionResult> GetUserAsync(string email)
         {
@@ -88,12 +97,47 @@ namespace SQLiteDb.Controllers
             return Ok(user);
         }
 
+        [Authorize]
+        [HttpPut("modify/{email}")]
+        public async Task<IActionResult> ModifyUserAsych(string email, UserDTO userDTO)
+        {
+            if (email == null)
+            {
+                return BadRequest("The email is not provided");
+            }
+
+            //Try to retrieve the registered user by email.
+            //Return a BadRequest if the user does not exists or the credentials are not valid.
+            var registeredUser = await _userRepository.GetUserByEmailAsync(userDTO.email);
+            if (registeredUser == null || await ValidateUserAsync(userDTO) == false)
+            {
+                return BadRequest("A user with this email does not exists or the credentials are not correct");
+            }
+
+            //Create a dictionary of registration fields (username, password, email)
+            Dictionary<string, string> fields = CreateDictOfInputFields(userDTO.username, userDTO.password, email);
+
+            //Validate input fields using a custom validation function
+            //If validation fails, return an error message
+            string errorMessage = ValidateFields(fields);
+            if (errorMessage != "")
+            {
+                return (BadRequest(errorMessage));
+            }
+
+            //Update the User object and save it in the database
+            registeredUser.email = email;
+
+            await _userRepository.UpdateDatabaseAsync();
+            return NoContent();
+        }
+
         private async Task<bool> ValidateUserAsync(UserDTO userDTO)
         {
             //Retrieve the registered user and its corresponding hashed password.
             User? registeredUser = await _userRepository.GetUserByEmailAsync(userDTO.email);
             string hashedPassword = registeredUser.hashedPassword;
-            
+
             //Compute the hash of the entered password with the same hash
             byte[] salt = Convert.FromBase64String(registeredUser.salt);
             byte[] enteredPassword = Encoding.UTF8.GetBytes(userDTO.password);
@@ -161,6 +205,48 @@ namespace SQLiteDb.Controllers
                 return ("Error: Invalid email format.");
 
             return "";
+        }
+
+        private string CreateJWT(User user)
+        {
+            var issuer = _configuration["JWTConfig:Issuer"];
+            var audience = _configuration["JWTConfig:Audience"];
+            var Key = Encoding.UTF8.GetBytes(_configuration["JWTConfig:Key"]);
+            var SigningCredentials = new SigningCredentials(new SymmetricSecurityKey(Key),
+                SecurityAlgorithms.HmacSha512Signature);
+
+            var subject = new ClaimsIdentity(new[]
+            {
+                new Claim(JwtRegisteredClaimNames.Sub, user.username)
+            });
+
+            var expires = DateTime.UtcNow.AddMinutes(1);
+
+            var tokenDescriptor = new SecurityTokenDescriptor
+            {
+                Subject = subject,
+                Expires = expires,
+                Issuer = issuer,
+                Audience = audience,
+                SigningCredentials = SigningCredentials
+            };
+            var tokenHandler = new JwtSecurityTokenHandler();
+            var token = tokenHandler.CreateToken(tokenDescriptor);
+            string jwtToken = tokenHandler.WriteToken(token);
+
+            return jwtToken;
+        }
+
+        private Dictionary<string, string> CreateDictOfInputFields(string username, string password, string email)
+        {
+            Dictionary<string, string> fields = new Dictionary<string, string>
+            {
+                { "username", username},
+                { "password", password},
+                { "email", email}
+            };
+
+            return fields;
         }
     }
 }
