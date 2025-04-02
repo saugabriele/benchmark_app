@@ -108,7 +108,7 @@
     "Parameters": [
       {
         "Name": "userDTO",
-        "Type": "SQLiteDb.Models.UserDTO",
+        "Type": "DTO.UserDTO",
         "IsRequired": true
       }
     ],
@@ -129,7 +129,7 @@
       },
       {
         "Name": "userDTO",
-        "Type": "SQLiteDb.Models.UserDTO",
+        "Type": "DTO.UserDTO",
         "IsRequired": true
       }
     ],
@@ -145,7 +145,7 @@
     "Parameters": [
       {
         "Name": "userDTO",
-        "Type": "SQLiteDb.Models.UserDTO",
+        "Type": "DTO.UserDTO",
         "IsRequired": true
       }
     ],

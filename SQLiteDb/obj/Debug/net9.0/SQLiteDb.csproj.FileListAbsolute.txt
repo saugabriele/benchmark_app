@@ -311,127 +311,7 @@ C:\Users\Utente\source\repos\SQLiteDb\SQLiteDb\bin\Debug\net9.0\bin - Copia\Rele
 C:\Users\Utente\source\repos\SQLiteDb\SQLiteDb\bin\Debug\net9.0\bin - Copia\Release\net9.0\publish\bin - Copia\Release\net9.0\SQLiteDb.staticwebassets.endpoints.json
 C:\Users\Utente\source\repos\SQLiteDb\SQLiteDb\bin\Debug\net9.0\bin - Copia\Release\net9.0\publish\bin - Copia\Release\net9.0\SQLiteDb.staticwebassets.runtime.json
 C:\Users\Utente\source\repos\SQLiteDb\SQLiteDb\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia Eaz\Release\net9.0\bin - Copia Eaz\Release\net9.0\publish\web.config
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia Eaz\Release\net9.0\bin - Copia\Release\net9.0\publish\web.config
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia Eaz\Release\net9.0\publish\bin - Copia Eaz\Release\net9.0\publish\web.config
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia Eaz\Release\net9.0\publish\bin - Copia\Release\net9.0\publish\web.config
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia Eaz\Release\net9.0\publish\web.config
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia\Release\net9.0\bin - Copia Eaz\Release\net9.0\publish\web.config
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia\Release\net9.0\bin - Copia\Release\net9.0\publish\web.config
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia\Release\net9.0\publish\bin - Copia Eaz\Release\net9.0\publish\web.config
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia\Release\net9.0\publish\bin - Copia\Release\net9.0\publish\web.config
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia\Release\net9.0\publish\web.config
 C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\appsettings.Development.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia Eaz\Release\net9.0\appsettings.Development.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia Eaz\Release\net9.0\appsettings.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia Eaz\Release\net9.0\bin - Copia Eaz\Release\net9.0\appsettings.Development.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia Eaz\Release\net9.0\bin - Copia Eaz\Release\net9.0\appsettings.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia Eaz\Release\net9.0\bin - Copia Eaz\Release\net9.0\publish\appsettings.Development.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia Eaz\Release\net9.0\bin - Copia Eaz\Release\net9.0\publish\appsettings.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia Eaz\Release\net9.0\bin - Copia Eaz\Release\net9.0\publish\SQLiteDb.deps.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia Eaz\Release\net9.0\bin - Copia Eaz\Release\net9.0\publish\SQLiteDb.runtimeconfig.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia Eaz\Release\net9.0\bin - Copia Eaz\Release\net9.0\publish\SQLiteDb.staticwebassets.endpoints.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia Eaz\Release\net9.0\bin - Copia Eaz\Release\net9.0\SQLiteDb.deps.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia Eaz\Release\net9.0\bin - Copia Eaz\Release\net9.0\SQLiteDb.runtimeconfig.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia Eaz\Release\net9.0\bin - Copia Eaz\Release\net9.0\SQLiteDb.staticwebassets.endpoints.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia Eaz\Release\net9.0\bin - Copia Eaz\Release\net9.0\SQLiteDb.staticwebassets.runtime.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia Eaz\Release\net9.0\bin - Copia\Release\net9.0\appsettings.Development.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia Eaz\Release\net9.0\bin - Copia\Release\net9.0\appsettings.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia Eaz\Release\net9.0\bin - Copia\Release\net9.0\publish\appsettings.Development.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia Eaz\Release\net9.0\bin - Copia\Release\net9.0\publish\appsettings.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia Eaz\Release\net9.0\bin - Copia\Release\net9.0\publish\SQLiteDb.deps.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia Eaz\Release\net9.0\bin - Copia\Release\net9.0\publish\SQLiteDb.runtimeconfig.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia Eaz\Release\net9.0\bin - Copia\Release\net9.0\publish\SQLiteDb.staticwebassets.endpoints.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia Eaz\Release\net9.0\bin - Copia\Release\net9.0\SQLiteDb.deps.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia Eaz\Release\net9.0\bin - Copia\Release\net9.0\SQLiteDb.runtimeconfig.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia Eaz\Release\net9.0\bin - Copia\Release\net9.0\SQLiteDb.staticwebassets.endpoints.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia Eaz\Release\net9.0\bin - Copia\Release\net9.0\SQLiteDb.staticwebassets.runtime.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia Eaz\Release\net9.0\publish\appsettings.Development.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia Eaz\Release\net9.0\publish\appsettings.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia Eaz\Release\net9.0\publish\bin - Copia Eaz\Release\net9.0\appsettings.Development.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia Eaz\Release\net9.0\publish\bin - Copia Eaz\Release\net9.0\appsettings.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia Eaz\Release\net9.0\publish\bin - Copia Eaz\Release\net9.0\publish\appsettings.Development.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia Eaz\Release\net9.0\publish\bin - Copia Eaz\Release\net9.0\publish\appsettings.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia Eaz\Release\net9.0\publish\bin - Copia Eaz\Release\net9.0\publish\SQLiteDb.deps.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia Eaz\Release\net9.0\publish\bin - Copia Eaz\Release\net9.0\publish\SQLiteDb.runtimeconfig.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia Eaz\Release\net9.0\publish\bin - Copia Eaz\Release\net9.0\publish\SQLiteDb.staticwebassets.endpoints.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia Eaz\Release\net9.0\publish\bin - Copia Eaz\Release\net9.0\SQLiteDb.deps.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia Eaz\Release\net9.0\publish\bin - Copia Eaz\Release\net9.0\SQLiteDb.runtimeconfig.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia Eaz\Release\net9.0\publish\bin - Copia Eaz\Release\net9.0\SQLiteDb.staticwebassets.endpoints.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia Eaz\Release\net9.0\publish\bin - Copia Eaz\Release\net9.0\SQLiteDb.staticwebassets.runtime.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia Eaz\Release\net9.0\publish\bin - Copia\Release\net9.0\appsettings.Development.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia Eaz\Release\net9.0\publish\bin - Copia\Release\net9.0\appsettings.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia Eaz\Release\net9.0\publish\bin - Copia\Release\net9.0\publish\appsettings.Development.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia Eaz\Release\net9.0\publish\bin - Copia\Release\net9.0\publish\appsettings.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia Eaz\Release\net9.0\publish\bin - Copia\Release\net9.0\publish\SQLiteDb.deps.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia Eaz\Release\net9.0\publish\bin - Copia\Release\net9.0\publish\SQLiteDb.runtimeconfig.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia Eaz\Release\net9.0\publish\bin - Copia\Release\net9.0\publish\SQLiteDb.staticwebassets.endpoints.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia Eaz\Release\net9.0\publish\bin - Copia\Release\net9.0\SQLiteDb.deps.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia Eaz\Release\net9.0\publish\bin - Copia\Release\net9.0\SQLiteDb.runtimeconfig.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia Eaz\Release\net9.0\publish\bin - Copia\Release\net9.0\SQLiteDb.staticwebassets.endpoints.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia Eaz\Release\net9.0\publish\bin - Copia\Release\net9.0\SQLiteDb.staticwebassets.runtime.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia Eaz\Release\net9.0\publish\SQLiteDb.deps.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia Eaz\Release\net9.0\publish\SQLiteDb.runtimeconfig.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia Eaz\Release\net9.0\publish\SQLiteDb.staticwebassets.endpoints.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia Eaz\Release\net9.0\SQLiteDb.deps.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia Eaz\Release\net9.0\SQLiteDb.runtimeconfig.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia Eaz\Release\net9.0\SQLiteDb.staticwebassets.endpoints.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia Eaz\Release\net9.0\SQLiteDb.staticwebassets.runtime.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia\Release\net9.0\appsettings.Development.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia\Release\net9.0\appsettings.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia\Release\net9.0\bin - Copia Eaz\Release\net9.0\appsettings.Development.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia\Release\net9.0\bin - Copia Eaz\Release\net9.0\appsettings.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia\Release\net9.0\bin - Copia Eaz\Release\net9.0\publish\appsettings.Development.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia\Release\net9.0\bin - Copia Eaz\Release\net9.0\publish\appsettings.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia\Release\net9.0\bin - Copia Eaz\Release\net9.0\publish\SQLiteDb.deps.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia\Release\net9.0\bin - Copia Eaz\Release\net9.0\publish\SQLiteDb.runtimeconfig.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia\Release\net9.0\bin - Copia Eaz\Release\net9.0\publish\SQLiteDb.staticwebassets.endpoints.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia\Release\net9.0\bin - Copia Eaz\Release\net9.0\SQLiteDb.deps.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia\Release\net9.0\bin - Copia Eaz\Release\net9.0\SQLiteDb.runtimeconfig.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia\Release\net9.0\bin - Copia Eaz\Release\net9.0\SQLiteDb.staticwebassets.endpoints.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia\Release\net9.0\bin - Copia Eaz\Release\net9.0\SQLiteDb.staticwebassets.runtime.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia\Release\net9.0\bin - Copia\Release\net9.0\appsettings.Development.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia\Release\net9.0\bin - Copia\Release\net9.0\appsettings.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia\Release\net9.0\bin - Copia\Release\net9.0\publish\appsettings.Development.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia\Release\net9.0\bin - Copia\Release\net9.0\publish\appsettings.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia\Release\net9.0\bin - Copia\Release\net9.0\publish\SQLiteDb.deps.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia\Release\net9.0\bin - Copia\Release\net9.0\publish\SQLiteDb.runtimeconfig.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia\Release\net9.0\bin - Copia\Release\net9.0\publish\SQLiteDb.staticwebassets.endpoints.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia\Release\net9.0\bin - Copia\Release\net9.0\SQLiteDb.deps.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia\Release\net9.0\bin - Copia\Release\net9.0\SQLiteDb.runtimeconfig.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia\Release\net9.0\bin - Copia\Release\net9.0\SQLiteDb.staticwebassets.endpoints.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia\Release\net9.0\bin - Copia\Release\net9.0\SQLiteDb.staticwebassets.runtime.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia\Release\net9.0\publish\appsettings.Development.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia\Release\net9.0\publish\appsettings.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia\Release\net9.0\publish\bin - Copia Eaz\Release\net9.0\appsettings.Development.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia\Release\net9.0\publish\bin - Copia Eaz\Release\net9.0\appsettings.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia\Release\net9.0\publish\bin - Copia Eaz\Release\net9.0\publish\appsettings.Development.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia\Release\net9.0\publish\bin - Copia Eaz\Release\net9.0\publish\appsettings.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia\Release\net9.0\publish\bin - Copia Eaz\Release\net9.0\publish\SQLiteDb.deps.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia\Release\net9.0\publish\bin - Copia Eaz\Release\net9.0\publish\SQLiteDb.runtimeconfig.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia\Release\net9.0\publish\bin - Copia Eaz\Release\net9.0\publish\SQLiteDb.staticwebassets.endpoints.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia\Release\net9.0\publish\bin - Copia Eaz\Release\net9.0\SQLiteDb.deps.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia\Release\net9.0\publish\bin - Copia Eaz\Release\net9.0\SQLiteDb.runtimeconfig.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia\Release\net9.0\publish\bin - Copia Eaz\Release\net9.0\SQLiteDb.staticwebassets.endpoints.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia\Release\net9.0\publish\bin - Copia Eaz\Release\net9.0\SQLiteDb.staticwebassets.runtime.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia\Release\net9.0\publish\bin - Copia\Release\net9.0\appsettings.Development.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia\Release\net9.0\publish\bin - Copia\Release\net9.0\appsettings.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia\Release\net9.0\publish\bin - Copia\Release\net9.0\publish\appsettings.Development.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia\Release\net9.0\publish\bin - Copia\Release\net9.0\publish\appsettings.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia\Release\net9.0\publish\bin - Copia\Release\net9.0\publish\SQLiteDb.deps.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia\Release\net9.0\publish\bin - Copia\Release\net9.0\publish\SQLiteDb.runtimeconfig.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia\Release\net9.0\publish\bin - Copia\Release\net9.0\publish\SQLiteDb.staticwebassets.endpoints.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia\Release\net9.0\publish\bin - Copia\Release\net9.0\SQLiteDb.deps.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia\Release\net9.0\publish\bin - Copia\Release\net9.0\SQLiteDb.runtimeconfig.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia\Release\net9.0\publish\bin - Copia\Release\net9.0\SQLiteDb.staticwebassets.endpoints.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia\Release\net9.0\publish\bin - Copia\Release\net9.0\SQLiteDb.staticwebassets.runtime.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia\Release\net9.0\publish\SQLiteDb.deps.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia\Release\net9.0\publish\SQLiteDb.runtimeconfig.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia\Release\net9.0\publish\SQLiteDb.staticwebassets.endpoints.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia\Release\net9.0\SQLiteDb.deps.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia\Release\net9.0\SQLiteDb.runtimeconfig.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia\Release\net9.0\SQLiteDb.staticwebassets.endpoints.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\bin - Copia\Release\net9.0\SQLiteDb.staticwebassets.runtime.json
 C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\SQLiteDb.staticwebassets.endpoints.json
 C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\appsettings.json
 C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\SQLiteDb.staticwebassets.runtime.json
@@ -618,7 +498,6 @@ C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\obj\Debug\net9.0\staticwe
 C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.SQLiteDb.props
 C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.SQLiteDb.props
 C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\obj\Debug\net9.0\staticwebassets.pack.json
-C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\obj\Debug\net9.0\SQLiteDb.csproj.Up2Date
 C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\obj\Debug\net9.0\SQLiteDb.dll
 C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\obj\Debug\net9.0\refint\SQLiteDb.dll
@@ -626,3 +505,16 @@ C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\obj\Debug\net9.0\SQLiteDb
 C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\obj\Debug\net9.0\SQLiteDb.genruntimeconfig.cache
 C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\obj\Debug\net9.0\ref\SQLiteDb.dll
 C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\obj\Debug\net9.0\SQLiteDb.sourcelink.json
+C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\AutoMapper.dll
+C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\BLL.dll
+C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\DAL.dll
+C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\DBA.dll
+C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\DTO.dll
+C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\BLL.pdb
+C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\DAL.pdb
+C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\DBA.pdb
+C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\bin\Debug\net9.0\DTO.pdb
+C:\Users\Utente\source\repos\SQLiteDb - Copia\SQLiteDb\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt

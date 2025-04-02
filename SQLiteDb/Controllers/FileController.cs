@@ -1,12 +1,9 @@
 ﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
-using SQLiteDb.Models;
-using SQLiteDb.Repositories;
-using System;
-using System.IO;
+using BLL;
+using BLL.Enums;
+using DTO;
 
-// For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
 namespace SQLiteDb.Controllers
 {
@@ -15,111 +12,114 @@ namespace SQLiteDb.Controllers
     [Authorize]
     public class FileController : ControllerBase
     {
-        private readonly FileRepository _fileRepository;
-        private readonly IWebHostEnvironment _environment;
-        private readonly string _uploadPath;
+        private readonly FileManager _fileManager;
 
-        public FileController(IWebHostEnvironment environment, FileRepository fileRepository)
+        public FileController(FileManager fileManager)
         {
-            _fileRepository = fileRepository;
-            _environment = environment;
-            _uploadPath = Path.Combine(_environment.WebRootPath, "uploads");
+            _fileManager = fileManager;
         }
-
 
         [HttpPost("upload")]
         public async Task<IActionResult> UploadFileAsync([FromForm] IFormFile file)
         {
-            // Check if the file is null or its length is zero
-            if (file == null || file.Length == 0)
+            /*
+             * Uploads a file to the server.
+             *
+             * Parameters:
+             *   file (IFormFile): The file to upload.
+             *
+             * Returns:
+             *   200 OK - If the file was uploaded successfully.
+             *   400 Bad Request - If the file is not provided or has zero length.
+             */
+
+            FileEnum errorCode = await _fileManager.UploadFileAsync(file);
+
+            switch (errorCode)
             {
-                return BadRequest();
+                case FileEnum.fileNotProvidedOrWithLenghtZero:
+                    return BadRequest("You must provide a valid filename or file");
+                case FileEnum.none:
+                    return Ok();
+                default:
+                    return BadRequest();
             }
-
-            // Ensure the directory for storing files exists, if it exists create the full file path
-            CheckDirectory();
-            string filePath = Path.Combine(_uploadPath, file.FileName);
-
-            // Use a FileStream to write the uploaded file to the file system
-            using (var stream = new FileStream(filePath, FileMode.Create))
-            {
-                await file.CopyToAsync(stream);
-            }
-
-            //Record the file action in the file repository and returns an OK response
-            await _fileRepository.ActionOnFileAsync(file.FileName, "Uploaded");
-            return Ok();
         }
-
 
         [HttpGet("download")]
         public async Task<IActionResult> DownloadFileAsync([FromQuery] string filename)
         {
-            // Check if the filename is provided
-            if (filename == null)
+            /*
+             * Downloads a file from the server.
+             *
+             * Parameters:
+             *   filename (string): The name of the file to download.
+             *
+             * Returns:
+             *   200 OK - With the file content if the file exists.
+             *   400 Bad Request - If no filename is provided.
+             *   404 Not Found - If the file does not exist.
+             */
+
+            (FileEnum errorCode, byte[] fileBytes) = await _fileManager.DownloadFileAsync(filename);
+
+            switch (errorCode)
             {
-                return BadRequest("You must provide a filename");
+                case FileEnum.fileNotProvided:
+                    return BadRequest("You must provide a filename");
+                case FileEnum.fileNotFound:
+                    return NotFound("The file does not exists");
+                case FileEnum.none:
+                    return File(fileBytes, "application/octet-stream", filename);
+                default:
+                    return BadRequest();
             }
-
-            // Ensure the directory for downloading files exists, if it exists create the full file path
-            CheckDirectory();
-            string filePath = Path.Combine(_uploadPath, filename);
-
-            // Check if the file exists at the specified file path
-            if (!System.IO.File.Exists(filePath))
-            {
-                return NotFound("The file does not exists");
-            }
-
-            // Log the file download action
-            await _fileRepository.ActionOnFileAsync(filename, "Downloaded");
-
-            // Return the file as a response to the client
-            var fileBytes = await System.IO.File.ReadAllBytesAsync(filePath);
-            return File(fileBytes, "application/octet-stream", filename);
         }
 
 
         [HttpGet("delete")]
         public async Task<IActionResult> DeleteFileAsync([FromQuery] string filename)
         {
-            // Check if the filename is provided
-            if (filename == null)
+            /*
+             * Deletes a file from the server.
+             * 
+             * Parameters:
+             *   filename (string): The name of the file to delete.
+             *
+             * Returns:
+             *   204 No Content - If the file was deleted successfully.
+             *   400 Bad Request - If no filename is provided.
+             *   404 Not Found - If the file does not exist.
+             */
+
+            FileEnum errorCode = await _fileManager.DeleteFileAsync(filename);
+
+            switch (errorCode)
             {
-                return BadRequest("You must provide a filename");
+                case FileEnum.fileNotProvided:
+                    return BadRequest("You must provide a filename");
+                case FileEnum.fileNotFound:
+                    return NotFound("The file does not exists");
+                case FileEnum.none:
+                    return NoContent();
+                default:
+                    return BadRequest();
             }
-
-            // Ensure the directory for downloading files exists, if it exists create the full file path
-            CheckDirectory();
-            string filePath = Path.Combine(_uploadPath, filename);
-
-            // Check if the file exists at the specified file path
-            if (!System.IO.File.Exists(filePath))
-            {
-                return NotFound($"The file does not exists");
-            }
-
-            // Attempt to delete the file at the specified file path, log the action and returns a NoContent response
-            System.IO.File.Delete(filePath);
-            await _fileRepository.ActionOnFileAsync(filename, "Deleted");
-            return NoContent();
         }
 
 
         [HttpGet("logs")]
         public async Task<IActionResult> GetLogsAsync()
         {
-            //Retrieves all the file action logs
-            return Ok(await _fileRepository.GetLogsAsync());
-        }
+            /*
+             * Retrieves the logs of all file actions performed on the server.
+             *
+             * Returns:
+             *   200 OK - With a list of file logs.
+             */
 
-        private void CheckDirectory()
-        {
-            //Verifies that the directory exists
-            if (!Directory.Exists(_uploadPath))
-            {
-                Directory.CreateDirectory(_uploadPath);
-            }
+            List<FileDTO> logs = await _fileManager.GetLogsAsync();
+            return Ok(logs);
         }
     }
 }

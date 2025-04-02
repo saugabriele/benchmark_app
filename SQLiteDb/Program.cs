@@ -1,21 +1,21 @@
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
-using SQLiteDb.Repositories;
 using System.Text;
+using BLL;
+using DTO;
 
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
-
+// Add services
 builder.Services.AddOpenApi();
 builder.Services.AddControllers();
-builder.Services.AddScoped<UserRepository>();
-builder.Services.AddScoped<FileRepository>();
-builder.Services.AddDbContext<AppDbContext>(options =>
-    options.UseSqlite(builder.Configuration.GetConnectionString("DefaultConnection")));
+builder.Services.AddAutoMapper(typeof(MappingProfile).Assembly);
+builder.Services.AddBLLServices(builder.Configuration.GetConnectionString("DefaultConnection"));
 builder.Services.AddMvc(options => { options.SuppressAsyncSuffixInActionNames = false; });
+
+// Configure JWT authentication
 builder.Services.AddAuthentication(options =>
 {
     options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
@@ -38,14 +38,14 @@ builder.Services.AddAuthorization();
 
 var app = builder.Build();
 
-// Apply any pending migrations on application startup
+// Apply database migrations
 using (var scope = app.Services.CreateScope())
 {
-    var dbContext = scope.ServiceProvider.GetRequiredService<AppDbContext>();
+    var dbContext = BLLServiceExtension.GetDbContext(scope.ServiceProvider);
     dbContext.Database.Migrate();
 }
 
-// Configure the HTTP request pipeline.
+// Configure request pipeline.
 if (app.Environment.IsDevelopment())
 {
     app.MapOpenApi();

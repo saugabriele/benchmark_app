@@ -10,7 +10,7 @@ Content-Type: application/json
 {
   "username" : "Luigi",
   "password" : "Funziona2&",
-  "email" : "test9@email.com"
+  "email" : "test7@email.com"
 }
 
 ###
@@ -21,12 +21,12 @@ Content-Type: application/json
 {
   "username" : "Luigi",
   "password" : "Funziona2&",
-  "email" : "test8@email.com"
+  "email" : "test7@email.com"
 }
 
 ###
 
-@email = test8@email.com
+@email = test9@email.com
 GET {{SQLiteDb_HostAddress}}/api/user/{{email}}
 
 ###
@@ -37,7 +37,7 @@ Content-Type: application/json
 {
   "username" : "Luigi",
   "password" : "Funziona2&",
-  "email" : "test7@email.com"
+  "email" : "test8@email.com"
 }
 
 ###

@@ -1,0 +1,9 @@
+C:\Users\Utente\source\repos\SQLiteDb - Copia\DTO\bin\Release\net9.0\publish\DTO.dll
+C:\Users\Utente\source\repos\SQLiteDb - Copia\DTO\bin\Release\net9.0\publish\DTO.deps.json
+C:\Users\Utente\source\repos\SQLiteDb - Copia\DTO\bin\Release\net9.0\publish\DTO.pdb
+C:\Users\Utente\source\repos\SQLiteDb - Copia\DTO\bin\Release\net9.0\publish\AutoMapper.dll
+C:\Users\Utente\source\repos\SQLiteDb - Copia\DTO\bin\Release\net9.0\publish\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Utente\source\repos\SQLiteDb - Copia\DTO\bin\Release\net9.0\publish\Microsoft.Extensions.Options.dll
+C:\Users\Utente\source\repos\SQLiteDb - Copia\DTO\bin\Release\net9.0\publish\Microsoft.Extensions.Primitives.dll
+C:\Users\Utente\source\repos\SQLiteDb - Copia\DTO\bin\Release\net9.0\publish\DBA.dll
+C:\Users\Utente\source\repos\SQLiteDb - Copia\DTO\bin\Release\net9.0\publish\DBA.pdb

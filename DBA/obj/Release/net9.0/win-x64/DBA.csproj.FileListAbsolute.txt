@@ -1,0 +1,13 @@
+C:\Users\Utente\source\repos\SQLiteDb - Copia\DBA\bin\Release\net9.0\win-x64\DBA.deps.json
+C:\Users\Utente\source\repos\SQLiteDb - Copia\DBA\bin\Release\net9.0\win-x64\DBA.dll
+C:\Users\Utente\source\repos\SQLiteDb - Copia\DBA\bin\Release\net9.0\win-x64\DBA.pdb
+C:\Users\Utente\source\repos\SQLiteDb - Copia\DBA\obj\Release\net9.0\win-x64\DBA.csproj.AssemblyReference.cache
+C:\Users\Utente\source\repos\SQLiteDb - Copia\DBA\obj\Release\net9.0\win-x64\DBA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\source\repos\SQLiteDb - Copia\DBA\obj\Release\net9.0\win-x64\DBA.AssemblyInfoInputs.cache
+C:\Users\Utente\source\repos\SQLiteDb - Copia\DBA\obj\Release\net9.0\win-x64\DBA.AssemblyInfo.cs
+C:\Users\Utente\source\repos\SQLiteDb - Copia\DBA\obj\Release\net9.0\win-x64\DBA.csproj.CoreCompileInputs.cache
+C:\Users\Utente\source\repos\SQLiteDb - Copia\DBA\obj\Release\net9.0\win-x64\DBA.sourcelink.json
+C:\Users\Utente\source\repos\SQLiteDb - Copia\DBA\obj\Release\net9.0\win-x64\DBA.dll
+C:\Users\Utente\source\repos\SQLiteDb - Copia\DBA\obj\Release\net9.0\win-x64\refint\DBA.dll
+C:\Users\Utente\source\repos\SQLiteDb - Copia\DBA\obj\Release\net9.0\win-x64\DBA.pdb
+C:\Users\Utente\source\repos\SQLiteDb - Copia\DBA\obj\Release\net9.0\win-x64\ref\DBA.dll
